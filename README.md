@@ -1,10 +1,4 @@
-#### My code is in FinalLab project.
-#### Please run it after adding .obj files provided below to FinalLab/models folder.
-https://hullacuk-my.sharepoint.com/:f:/g/personal/d_albayrak-2023_hull_ac_uk/EqSXPHajIAdKmcmJkrGOjOQBcVuqmpNwdOB3qUuTMcNLag?e=Ygxxpf
-
-# 700120-2425-lab-final
-
-This final lab exercise forms a substantive part of the assessment for both 700106 Real-Time Graphics and 700120 C++ Programming and Design.
+This exercise forms a substantive part of the assessment for both 700106 Real-Time Graphics and 700120 C++ Programming and Design.
 
 ## Concept
 
