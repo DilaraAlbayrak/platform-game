@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f7e0a56e-fd63-4890-8ffb-7819d5ac660a)
+
 This exercise forms a substantive part of the assessment for both 700106 Real-Time Graphics and 700120 C++ Programming and Design.
 
 ## Concept
